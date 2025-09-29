@@ -1,0 +1,5 @@
+# traefik-dynamic.yml
+tls:
+  certificates:
+    - certFile: /certs/keycloak.local.pem
+      keyFile: /certs/keycloak.local-key.pem

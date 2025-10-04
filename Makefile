@@ -1,6 +1,6 @@
 PROJECT_NAME := keycloak-dev
 KEYCLOAK_VERSION := 26.3
-DOMAIN := keycloak.local
+DOMAIN := localhost
 KEYCLOAK_PORT := 8080
 TRAEFIK_PORT := 80
 
